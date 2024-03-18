@@ -8,7 +8,7 @@ Program description ===> The Sixth Exercise
 
 Example ===> Write A Program That Takes A String From The User And Performs The Following Tasks:
 
-A => Enlarge And Display The First Three characters of that string
+A => Enlarge And Display The First Three Characters of that string
 
 B => Minimize and display the first three characters of that string
 
