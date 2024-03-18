@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program description ===> The Sixth Exercise
 
-Example ===> Write a program that takes a string from the user and performs the following tasks
+Example ===> Write A program that takes a string from the user and performs the following tasks
 
 A => Enlarge and display the first three characters of that string
 
