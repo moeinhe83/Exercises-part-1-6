@@ -10,7 +10,7 @@ Example ===> Write A Program That Takes A String From The User And Performs The 
 
 A => Enlarge And Display The First Three Characters Of That String
 
-B => Minimize and display the first Three Characters Of That String
+B => Minimize And display the First Three Characters Of That String
 
 Description Of Files:
 
