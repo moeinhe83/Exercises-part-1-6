@@ -4,7 +4,7 @@ Question Number ===> 6
 
 Programming Language ===> Python
 
-Program description ===> The sixth exercise
+Program description ===> The Sixth exercise
 
 Example ===> Write a program that takes a string from the user and performs the following tasks
 
